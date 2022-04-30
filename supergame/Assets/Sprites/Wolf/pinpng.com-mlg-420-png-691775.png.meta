@@ -1,0 +1,1140 @@
+fileFormatVersion: 2
+guid: f3a614a4a68c2c94bbcdb3b21140f521
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -990648064999400733
+    second: pinpng.com-mlg-420-png-691775_0
+  - first:
+      213: -6811528325260143177
+    second: pinpng.com-mlg-420-png-691775_1
+  - first:
+      213: 9172035144685747921
+    second: pinpng.com-mlg-420-png-691775_2
+  - first:
+      213: 1237023172765652481
+    second: pinpng.com-mlg-420-png-691775_3
+  - first:
+      213: 3046239937818557550
+    second: pinpng.com-mlg-420-png-691775_4
+  - first:
+      213: -6678654357627998235
+    second: pinpng.com-mlg-420-png-691775_5
+  - first:
+      213: 720972250536735548
+    second: pinpng.com-mlg-420-png-691775_6
+  - first:
+      213: -7017376307076220005
+    second: pinpng.com-mlg-420-png-691775_7
+  - first:
+      213: 3782386563255961466
+    second: pinpng.com-mlg-420-png-691775_8
+  - first:
+      213: -7628033865889888531
+    second: pinpng.com-mlg-420-png-691775_9
+  - first:
+      213: 2982029519585272326
+    second: pinpng.com-mlg-420-png-691775_10
+  - first:
+      213: 1966848622670540810
+    second: pinpng.com-mlg-420-png-691775_11
+  - first:
+      213: 325999936937318146
+    second: pinpng.com-mlg-420-png-691775_12
+  - first:
+      213: 608215963878761368
+    second: pinpng.com-mlg-420-png-691775_13
+  - first:
+      213: -6342797858161881577
+    second: pinpng.com-mlg-420-png-691775_14
+  - first:
+      213: -177521894246630139
+    second: pinpng.com-mlg-420-png-691775_15
+  - first:
+      213: -1533957990336615721
+    second: pinpng.com-mlg-420-png-691775_16
+  - first:
+      213: 7128362102083575650
+    second: pinpng.com-mlg-420-png-691775_17
+  - first:
+      213: 8787752615497365734
+    second: pinpng.com-mlg-420-png-691775_18
+  - first:
+      213: 4533138589557605695
+    second: pinpng.com-mlg-420-png-691775_19
+  - first:
+      213: 8265105626245714432
+    second: pinpng.com-mlg-420-png-691775_20
+  - first:
+      213: 4657731790814270149
+    second: pinpng.com-mlg-420-png-691775_21
+  - first:
+      213: -6879038191648871641
+    second: pinpng.com-mlg-420-png-691775_22
+  - first:
+      213: -2054052627561169141
+    second: pinpng.com-mlg-420-png-691775_23
+  - first:
+      213: -6825219173647152450
+    second: pinpng.com-mlg-420-png-691775_24
+  - first:
+      213: -6453642655934916058
+    second: pinpng.com-mlg-420-png-691775_25
+  - first:
+      213: 5889568419900938743
+    second: pinpng.com-mlg-420-png-691775_26
+  - first:
+      213: -461710198039463916
+    second: pinpng.com-mlg-420-png-691775_27
+  - first:
+      213: -8806069076965621237
+    second: pinpng.com-mlg-420-png-691775_28
+  - first:
+      213: -8717069542633850022
+    second: pinpng.com-mlg-420-png-691775_29
+  - first:
+      213: 4025993085536223249
+    second: pinpng.com-mlg-420-png-691775_30
+  - first:
+      213: -106122851426047208
+    second: pinpng.com-mlg-420-png-691775_31
+  - first:
+      213: -2434146311752166149
+    second: pinpng.com-mlg-420-png-691775_32
+  - first:
+      213: -5262685122501970961
+    second: pinpng.com-mlg-420-png-691775_33
+  - first:
+      213: -3447255774903675652
+    second: pinpng.com-mlg-420-png-691775_34
+  - first:
+      213: 1497104491084723262
+    second: pinpng.com-mlg-420-png-691775_35
+  - first:
+      213: 7353422202659651356
+    second: pinpng.com-mlg-420-png-691775_36
+  - first:
+      213: 8156912483352757591
+    second: pinpng.com-mlg-420-png-691775_37
+  - first:
+      213: 558244155738707210
+    second: pinpng.com-mlg-420-png-691775_38
+  - first:
+      213: -6603953071335496407
+    second: pinpng.com-mlg-420-png-691775_39
+  - first:
+      213: -6608264285120397385
+    second: pinpng.com-mlg-420-png-691775_40
+  - first:
+      213: 2364507485222510087
+    second: pinpng.com-mlg-420-png-691775_41
+  - first:
+      213: -2377620756839558437
+    second: pinpng.com-mlg-420-png-691775_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 473
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea584465d28042f0800000000000000
+      internalID: -990648064999400733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_1
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 518
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b59b53c3179871a0800000000000000
+      internalID: -6811528325260143177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 477
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de746a5e5d994f70800000000000000
+      internalID: 9172035144685747921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 477
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1069f97850aca2110800000000000000
+      internalID: 1237023172765652481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 477
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c7842751b664a20800000000000000
+      internalID: 3046239937818557550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 477
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efe7fb2f37a053a0800000000000000
+      internalID: -6678654357627998235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 477
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33f7262178610a00800000000000000
+      internalID: 720972250536735548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 477
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bba79ad654d9e90800000000000000
+      internalID: -7017376307076220005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 478
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7705121a8cbd7430800000000000000
+      internalID: 3782386563255961466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 477
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6cbf03d97c32690800000000000000
+      internalID: -7628033865889888531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 408
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602eb907c0c426920800000000000000
+      internalID: 2982029519585272326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 408
+        width: 101
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a007e39c666ab4b10800000000000000
+      internalID: 1966848622670540810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 408
+        width: 111
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207d2f5273f268400800000000000000
+      internalID: 325999936937318146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 420
+        width: 107
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89327b95231d07800800000000000000
+      internalID: 608215963878761368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_14
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 408
+        width: 104
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e072e14fad9f7a0800000000000000
+      internalID: -6342797858161881577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_15
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 408
+        width: 105
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d339917c0598df0800000000000000
+      internalID: -177521894246630139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 341
+        width: 95
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da2d95c55946bae0800000000000000
+      internalID: -1533957990336615721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 341
+        width: 105
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f5c0d60970de260800000000000000
+      internalID: 7128362102083575650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 341
+        width: 106
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8fabcb17e54f970800000000000000
+      internalID: 8787752615497365734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_19
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 341
+        width: 108
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3542349781f8ee30800000000000000
+      internalID: 4533138589557605695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_20
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 341
+        width: 97
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0025573d6cd83b270800000000000000
+      internalID: 8265105626245714432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_21
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 341
+        width: 98
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c25782d26693a040800000000000000
+      internalID: 4657731790814270149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 249
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b6c6e163fb880a0800000000000000
+      internalID: -6879038191648871641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 304
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f3240a40a8e73e0800000000000000
+      internalID: -2054052627561169141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 249
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba8398b253f741a0800000000000000
+      internalID: -6825219173647152450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 249
+        width: 89
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ad0b1823e0076a0800000000000000
+      internalID: -6453642655934916058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 179
+        width: 92
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9dd8c0643fbb150800000000000000
+      internalID: 5889568419900938743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 179
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418bea8650da799f0800000000000000
+      internalID: -461710198039463916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_28
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 153
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0289efb4de8ac580800000000000000
+      internalID: -8806069076965621237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 164
+        width: 95
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bbeec9f6fb60780800000000000000
+      internalID: -8717069542633850022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110c09371633fd730800000000000000
+      internalID: 4025993085536223249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_31
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 93
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81be23234d9f68ef0800000000000000
+      internalID: -106122851426047208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_32
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 93
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf45fac73dc283ed0800000000000000
+      internalID: -2434146311752166149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 93
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3798493cf27f6b0800000000000000
+      internalID: -5262685122501970961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_34
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 93
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4d3f61323e820d0800000000000000
+      internalID: -3447255774903675652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_35
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 93
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e343fb64a98c6c410800000000000000
+      internalID: 1497104491084723262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fbff0888a9c0660800000000000000
+      internalID: 7353422202659651356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_37
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755c03abfac233170800000000000000
+      internalID: 8156912483352757591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a055eb81a184fb700800000000000000
+      internalID: 558244155738707210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_39
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925a2bdbbab0a54a0800000000000000
+      internalID: -6603953071335496407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_40
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 91
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf7f7f05aaba44a0800000000000000
+      internalID: -6608264285120397385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_41
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 92
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e9075b70b60d020800000000000000
+      internalID: 2364507485222510087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinpng.com-mlg-420-png-691775_42
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 91
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd29bf1d48ef00fd0800000000000000
+      internalID: -2377620756839558437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
