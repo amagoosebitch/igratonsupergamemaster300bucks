@@ -8,6 +8,7 @@ public class Character : Unit
     private int lives = 5;
 
     public GameObject player;
+    public Animator animator;
     public float speed;
     public int Lives
     {
@@ -46,11 +47,33 @@ public class Character : Unit
     {
     }
 
+    public bool isDead
+    {
+        get
+        {
+            return Lives <= 0;
+        }
+    }
+
     void Update()
     {
-/*        State = CharState.Idle;
-*/       if (Input.GetButton("Horizontal") || Input.GetButton("Vertical")) Run();
+        var h = Input.GetAxis("Horizontal") * speed;
+        var v = Input.GetAxis("Vertical") * speed;
+
+        var current1 = Mathf.Abs(h);
+        var current2 = Mathf.Abs(v);
+        if (h > 0)
+            player.transform.localScale = new Vector3(5, 5, 1);
+        else if (h < 0)
+            player.transform.localScale = new Vector3(-5, 5, 1);
+        animator.SetFloat("Speed", current1 > 0 ? current1 : current2);
+        /*        State = CharState.Idle;
+        */
+        player.transform.Translate(
+            new Vector3(h * Time.deltaTime, v * Time.deltaTime, 0));
         if (Input.GetKeyDown(KeyCode.LeftControl) || Input.GetKeyDown(KeyCode.RightControl)) Bite();
+        if (Input.GetKeyDown(KeyCode.L))
+            ReceiveDamage();
 /*        hpbar.Refresh();
 */        /*        var h = Input.GetAxis("Horizontal");
                 var v = Input.GetAxis("Vertical");
@@ -59,21 +82,11 @@ public class Character : Unit
         */
     }
 
-    private void Run()
-    {
-        var h = Input.GetAxis("Horizontal");
-        var v = Input.GetAxis("Vertical");
-        player.transform.Translate(
-            new Vector3(h * speed * Time.deltaTime, v * speed * Time.deltaTime, 0));
-
-        //transform.Rotate(0f, 180f, 0f);
-
-        /*        State = CharState.Run;
-        */
-    }
+  
 
     private void Bite()
     {
+        
         Vector3 position = transform.position;
         position.y += 1.75f;
         position.x += 2.3f * (sprite.flipX ? -1.0f : 1.0f);
@@ -88,17 +101,18 @@ public class Character : Unit
 
     public override void ReceiveDamage()
     {
-        if (lives == 1)
+        if (Lives == 1)
         {
-            Destroy(gameObject);
+            animator.SetTrigger("Death");
+            //Destroy(gameObject);
 /*            Instantiate(blood, transform.position, Quaternion.identity);
-*/            Time.timeScale = 0f;
+*/          //Time.timeScale = 0f;
 /*            GameOverMenu.GameIsOver = true;
 */        }
         Lives--;
 
-        rigidbody.velocity = Vector3.zero;
-        rigidbody.AddForce(transform.up * 10.0F, ForceMode2D.Impulse);
+        //rigidbody.velocity = Vector3.zero;
+        //rigidbody.AddForce(transform.up * 10.0F, ForceMode2D.Impulse);
     }
 }
 /*
