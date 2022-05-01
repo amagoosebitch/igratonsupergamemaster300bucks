@@ -8,7 +8,7 @@ public class cameraFollowPlayerScript : MonoBehaviour
 
     void Start()
     {
-        player = GameObject.FindGameObjectWithTag("player");
+        // player = GameObject.FindGameObjectWithTag("player");
     }
 
     void Update()

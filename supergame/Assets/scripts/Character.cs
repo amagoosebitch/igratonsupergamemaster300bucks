@@ -18,7 +18,7 @@ public class Character : Unit
             if (value < 5) lives = value;
         }
     }
-   /* private Bullet bullet;*/
+    private Bullet bullet;
     /*    private HPBar hpbar;
     */
     /*
@@ -32,15 +32,16 @@ public class Character : Unit
         }
     */
     private Rigidbody2D rigidbody;
-/*    private Animator animator;
-*/    private SpriteRenderer sprite;
+    private SpriteRenderer sprite;
 
     private void Awake()
     {
 /*        hpbar = FindObjectOfType<HPBar>();
-*/      rigidbody = GetComponent<Rigidbody2D>();
-/*        animator = GetComponent<Animator>();
-*/        sprite = GetComponentInChildren<SpriteRenderer>();
+*/
+        rigidbody = GetComponent<Rigidbody2D>();
+       animator = GetComponent<Animator>();
+       sprite = GetComponentInChildren<SpriteRenderer>();
+       bullet = Resources.Load<Bullet>("Bullet");
     }
 
     void Start()
@@ -88,13 +89,13 @@ public class Character : Unit
     {
         
         Vector3 position = transform.position;
-        position.y += 1.75f;
-        position.x += 2.3f * (sprite.flipX ? -1.0f : 1.0f);
-     /*   Bullet newBullet = Instantiate(bullet, position, bullet.transform.rotation) as Bullet;
+        position.y += 0.9f;
+        position.x += 2.3f * (player.transform.localScale[0] < 0 ? -1.0f : 1.0f);
+        Bullet newBullet = Instantiate(bullet, position, bullet.transform.rotation) as Bullet;
 
         newBullet.Parent = gameObject;
-        newBullet.speed = 0.0f;
-        newBullet.Direction = newBullet.transform.right * (sprite.flipX ? -1.0f : 1.0f);*/
+        newBullet.speed = 15.0f;
+        newBullet.Direction = newBullet.transform.right * (player.transform.localScale[0] < 0 ? -1.0f : 1.0f);
         /*        State = CharState.Bite;
         */
     }
